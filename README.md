@@ -22,5 +22,9 @@ Informações Técnicas
 Como utilizar
 ============
 
-Basta executar o script no diretório do WordPress
+Basta executar o comando abaixo no diretório do WordPress
+
+```bash
+bash <(curl -ks https://raw.githubusercontent.com/renanpessoa/WordPress-Fix/master/wordpressfix.sh)
+```
 
